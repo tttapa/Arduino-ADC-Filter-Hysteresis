@@ -7,9 +7,10 @@
                 "/usr/include/python3.7m"
             ],
             "defines": [],
+            "compilerPath": "/usr/bin/env gcc-9",
             "cStandard": "c11",
             "cppStandard": "c++17",
-            "intelliSenseMode": "clang-x64"
+            "intelliSenseMode": "gcc-x64"
         }
     ],
     "version": 4
